@@ -1,0 +1,1 @@
+panda3d packp3d1.9.p3d -d Panda3D\ P3D\ Player  -n p3d -o P3DPlayer.p3d -r ai -r audio -r bullet -r egg -r ffmpeg -r models -r morepy -r ode -r openal  -r sqlite -r rocket -r tk -r fmod
